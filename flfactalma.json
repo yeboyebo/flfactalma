@@ -17,7 +17,136 @@
             }
         ],
         "deleteFile": [],
-        "addFile": [],
+        "addFile": [
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__familias.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__familias_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__lecturasinvetariocsv.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__lecturasinvetariocsv_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__transstock.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__transstock_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__stocks.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__stocks_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__articuloscli.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__articuloscli_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__tarifas.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__tarifas_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__articulostarifas.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__articulostarifas_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__marcas.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__marcas_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__articulos.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__articulos_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__inventarios.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__inventarios_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__factalma_general.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__factalma_general_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__lineastransstock.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__lineastransstock_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__articulosagen.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__articulosagen_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__almacenes.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__almacenes_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__articulosprov.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__articulosprov_def.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__lineasregstocks.py"
+            },
+            {
+                "path": "models/flfactalma/",
+                "name": "model_flfactalma__lineasregstocks_def.py"
+            }
+        ],
         "patchScript": []
     },
     "name": "flfactalma"

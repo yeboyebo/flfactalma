@@ -1,3 +1,26 @@
 {
-    "modifications": []
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/root",
+            "value": {
+                "flfactalma": {
+                    "familias": null,
+                    "transstock": null,
+                    "articuloscli": null,
+                    "tarifas": null,
+                    "marcas": null,
+                    "articulos": null,
+                    "inventarios": null,
+                    "factalma_general": null,
+                    "lineastransstock": null,
+                    "articulosagen": null,
+                    "almacenes": null,
+                    "articulosprov": null,
+                    "lineasregstocks": null,
+                    "regstocks": null
+                }
+            }
+        }
+    ]
 }
