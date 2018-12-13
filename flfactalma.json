@@ -145,6 +145,90 @@
             {
                 "path": "models/flfactalma/",
                 "name": "model_flfactalma__lineasregstocks_def.py"
+            },
+            {
+                "name": "app_almacen__menu_almacen.json",
+                "path": "apps/almacen/templates/almacen/"
+            },
+            {
+                "name": "app_almacen__familias.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__masterstocks.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__newrecordarticulosprov.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__newrecordalmacenes.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__newrecordfamilias.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__inventarios.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__tarifas.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__newrecordstocks.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__stocks.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__newrecordarticulos.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__masterarticulos.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__articulos.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__articulostarifas.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__newrecordarticulostarifas.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__mastertarifas.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__masteralmacenes.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__masterfamilias.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__almacenes.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__articulosprov.json",
+                "path": "apps/almacen/templates/almacen/plantillas/"
+            },
+            {
+                "name": "app_almacen__views_almacen.py",
+                "path": "apps/almacen/viewset/"
             }
         ],
         "patchScript": []
