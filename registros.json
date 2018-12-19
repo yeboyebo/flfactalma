@@ -18,7 +18,10 @@
                     "almacenes": null,
                     "articulosprov": null,
                     "lineasregstocks": null,
-                    "regstocks": null
+                    "stocks": {
+                        "form": "masterregstocks",
+                        "formRecord": "regstocks"
+                    }
                 }
             }
         }
