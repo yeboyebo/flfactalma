@@ -30,16 +30,6 @@
                     "lineasregstocks": null
                 }
             }
-        },
-        {
-            "type": "insertAfterNode",
-            "path": "/models/flfactalma",
-            "value": {
-                "flsisppal": {
-                    "auth_group": null,
-                    "auth_user": null
-                }
-            }
         }
     ]
 }
