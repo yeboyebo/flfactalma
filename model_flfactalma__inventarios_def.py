@@ -17,7 +17,7 @@ from YBLEGACY.constantes import *
 class flfactalma(interna):
 
     def flfactalma_getDesc(self):
-        return None
+        return "observaciones"
 
     def __init__(self, context=None):
         super().__init__(context)
