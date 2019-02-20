@@ -19,6 +19,10 @@
         "deleteFile": [],
         "addFile": [
             {
+                "name": "app_almacen____init__.py",
+                "path": "apps/almacen/"
+            },
+            {
                 "path": "models/flfactalma/",
                 "name": "model_flfactalma__familias.py"
             },
