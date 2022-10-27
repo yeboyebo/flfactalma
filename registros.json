@@ -21,7 +21,8 @@
                     "stocks": {
                         "form": "masterregstocks",
                         "formRecord": "regstocks"
-                    }
+                    },
+                    "factalma_modelos": null
                 }
             }
         }
